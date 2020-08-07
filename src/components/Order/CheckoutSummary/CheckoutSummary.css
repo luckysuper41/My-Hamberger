@@ -1,0 +1,17 @@
+.checkout{
+     width: 100%;
+     margin: 0 auto;
+}
+
+.CheckoutSummary{
+     text-align: center;
+     width: 80%;
+     margin: 0 auto;
+}
+
+/* @media (max-width: 600px)
+{
+     .CheckoutSummary{
+          width: 500px;
+     }
+} */
