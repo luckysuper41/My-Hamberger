@@ -9,10 +9,7 @@
 
 }
 
-.ContactData input{
-     display: block;
-     margin: 4px auto;
-}
+
 
 @media (min-width: 600px ){
      .ContactData{
