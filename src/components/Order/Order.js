@@ -16,9 +16,9 @@ const order =(props) =>{
 
      const ingredientOutput = ingredients.map(ig =>{
      return <span 
-     key={ig.name} 
-     className={classes.igOutput}
-     >{ig.name} ({ig.amount}) </span>
+          key={ig.name} 
+          className={classes.igOutput}
+          >{ig.name} ({ig.amount}) </span>
      });
 
      return(
